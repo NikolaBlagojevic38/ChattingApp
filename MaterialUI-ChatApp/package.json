@@ -1,10 +1,10 @@
 {
-  "name": "police-hospital-chat",
+  "name": "ChatApp",
   "version": "0.0.1",
-  "description": "Police Hospital Chat App",
+  "description": "Chat App",
   "main": "index.js",
-  "repository": "https://programmingwithalfred@bitbucket.org/programmingwithalfred/police-hospital-chat.git",
-  "author": "alfred <programmingwithalfred@gmail.com>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "private": true,
   "dependencies": {
